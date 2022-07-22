@@ -54,13 +54,13 @@ a:hover{
 
 footer{
     background-color: #453f3f;
-    text-align: center;
     color: white;
     padding: 50px;
 }
 
 footer p{
     margin: 0;
+    text-align: center;
 }
 
 footer a{
